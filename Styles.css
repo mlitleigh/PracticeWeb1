@@ -7,3 +7,33 @@ body {
 	text-shadow: 0px 0px 0px;
 	letter-spacing: normal;
 }
+body h1 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	text-align: center;
+	font-weight: 400;
+	font-size: 48px;
+	border: medium groove #FFFFFF;
+	border-radius: 19px;
+	border-spacing: 0px 0px;
+	background-color: #557FA2;
+	font-style: normal;
+	right: auto;
+	padding-right: auto;
+	padding-left: auto;
+	margin-right: 150px;
+	margin-left: 150px;
+	height: auto;
+}
+#introduction {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: x-small;
+	line-height: 0px;
+	white-space: normal;
+	height: auto;
+	min-height: 0px;
+	display: inline;
+	margin-top: 0px;
+	min-width: 0px;
+	top: auto;
+}
