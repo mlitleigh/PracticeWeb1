@@ -1,0 +1,9 @@
+@charset "utf-8";
+body {
+	background-color: #7A7778;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-weight: normal;
+	text-align: left;
+	text-shadow: 0px 0px 0px;
+	letter-spacing: normal;
+}
